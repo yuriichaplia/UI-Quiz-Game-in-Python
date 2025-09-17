@@ -10,8 +10,8 @@ Quizzler is a simple interactive True/False quiz game built with Python and Tkin
 + Visual feedback: canvas turns green/red depending on the correctness of your answer.
 + Disables buttons and shows a message when the quiz ends.
 + Organized into multiple modules for clarity and scalability:
-++ data.py → API handling
-question_model.py → Question class
+<br>data.py → API handling
+<br>question_model.py → Question class
 quiz_brain.py → Quiz logic (score, next question, answer check)
 ui.py → Tkinter interface
 main.py → Entry point
